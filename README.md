@@ -1,2 +1,2 @@
-# ML-Algorithms
-10 Essential Algorithms in ML&amp;DS
+# ML-from-scratch
+From-scratch ML implementations using only NumPy — no scikit-learn — to study algorithm internals.
